@@ -309,6 +309,7 @@ If you find our work useful in your research, please consider citing:
 |[Do Vision and Language Encoders Represent the World Similarly?](https://openaccess.thecvf.com/content/CVPR2024/papers/Maniparambil_Do_Vision_and_Language_Encoders_Represent_the_World_Similarly_CVPR_2024_paper.pdf)|CVPR 2024|[Code](https://github.com/mayug/0-shot-llm-vision)|
 |[Non-autoregressive Sequence-to-Sequence Vision-Language Models](https://arxiv.org/abs/2403.02249v1)|CVPR 2024|-|
 |[MMRL: Multi-Modal Representation Learning for Vision-Language Models](https://arxiv.org/abs/2503.08497)|CVPR 2025|[Code](https://github.com/yunncheng/MMRL)|
+|[HIVE: Hierarchical Pre-Training of Vision Encoders with Large Language Models](https://arxiv.org/abs/2604.00086)|CVPR 2026 Workshop|[Code](https://github.com/eugenelet/HIVE)|
 
 
 
