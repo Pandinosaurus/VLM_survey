@@ -392,6 +392,7 @@ If you find our work useful in your research, please consider citing:
 |[Progressive Visual Prompt Learning with Contrastive Feature Re-formation](https://arxiv.org/abs/2304.08386)|IJCV 2024|[Code](https://github.com/MCG-NJU/ProVP)|
 |[Visual In-Context Prompting](https://arxiv.org/abs/2311.13601)|CVPR 2024|[Code](https://github.com/UX-Decoder/DINOv)|
 |[FALIP: Visual Prompt as Foveal Attention Boosts CLIP Zero-Shot Performance](https://arxiv.org/abs/2407.05578v1)|ECCV 2024|[Code](https://pumpkin805.github.io/FALIP/)|
+|[Learning to Select Visual In-Context Demonstrations](https://arxiv.org/abs/2603.26775)|CVPR 2026 Findings|[Code](https://github.com/eugenelet/Learning-to-Select-Visual-In-Context-Demonstrations)|
 
 
 
